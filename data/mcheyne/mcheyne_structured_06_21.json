@@ -439,13 +439,13 @@
           "book": "Matthew",
           "chapter": 1,
           "verse": 6,
-          "text": "and Jesse begot David the king.David the king begot Solomon by her who had been the wife [a] of Uriah."
+          "text": "and Jesse begot David the king.David the king begot Solomon by her who had been the wife  of Uriah."
         },
         {
           "book": "Matthew",
           "chapter": 1,
           "verse": 7,
-          "text": "Solomon begot Rehoboam, Rehoboam begot Abijah, and Abijah begot Asa. [b]"
+          "text": "Solomon begot Rehoboam, Rehoboam begot Abijah, and Abijah begot Asa."
         },
         {
           "book": "Matthew",
@@ -463,7 +463,7 @@
           "book": "Matthew",
           "chapter": 1,
           "verse": 10,
-          "text": "Hezekiah begot Manasseh, Manasseh begot Amon, [c] and Amon begot Josiah."
+          "text": "Hezekiah begot Manasseh, Manasseh begot Amon,  and Amon begot Josiah."
         },
         {
           "book": "Matthew",
@@ -541,7 +541,7 @@
           "book": "Matthew",
           "chapter": 1,
           "verse": 23,
-          "text": "“Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel,” [d] which is translated, “God with us.”"
+          "text": "“Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel,”  which is translated, “God with us.”"
         },
         {
           "book": "Matthew",
@@ -553,7 +553,7 @@
           "book": "Matthew",
           "chapter": 1,
           "verse": 25,
-          "text": "and did not know her till she had brought forth her firstborn Son. [e] And he called His name Jesus."
+          "text": "and did not know her till she had brought forth her firstborn Son.  And he called His name Jesus."
         }
       ],
       "highlights": [],

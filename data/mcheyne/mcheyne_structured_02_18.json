@@ -35,7 +35,7 @@
           "book": "Exodus",
           "chapter": 1,
           "verse": 5,
-          "text": "All those who were descendants [a] of Jacob were seventy [b] persons (for Joseph was in Egypt already)."
+          "text": "All those who were descendants  of Jacob were seventy  persons (for Joseph was in Egypt already)."
         },
         {
           "book": "Exodus",
@@ -137,7 +137,7 @@
           "book": "Exodus",
           "chapter": 1,
           "verse": 22,
-          "text": "So Pharaoh commanded all his people, saying, “Every son who is born [c] you shall cast into the river, and every daughter you shall save alive.”"
+          "text": "So Pharaoh commanded all his people, saying, “Every son who is born  you shall cast into the river, and every daughter you shall save alive.”"
         }
       ],
       "highlights": [],
